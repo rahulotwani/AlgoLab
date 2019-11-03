@@ -32,4 +32,4 @@ for i in range(n):
 
 W=int(input("enter Weight:"))
  
-print(k4napSack(W,wt,val,n))
+print(knapSack(W,wt,val,n))
